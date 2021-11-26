@@ -1,0 +1,15 @@
+.banner {
+    height: 30vh;
+    background-image: url('../assets/banner.png');
+    border-bottom: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.css-1izfg5m {
+    width: 100%!important;
+}
